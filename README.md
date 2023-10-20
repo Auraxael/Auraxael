@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other web developer 👩‍💻 and desktop 🎨
 - 🤔 I’m still learning to .py , .html and  .c#.
 - 🥅 2023 Goals: I want to improve myself 🌎 and learning  unreal engine 🤖
-- ⚡ Fun fact: I love to play chess ♟, play volleyball 🏀 and listening to music.
+- ⚡ Fun fact: I love to play chess ♟, play table tennis  and listening to music.
 
 
 ## ⏲ What we are doing now:
